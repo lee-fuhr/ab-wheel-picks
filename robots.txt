@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lee-fuhr.github.io/ab-wheel-picks/sitemap.xml
